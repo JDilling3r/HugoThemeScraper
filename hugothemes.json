@@ -1,0 +1,2012 @@
+[
+ {
+  "Name": "hugo-academic",
+  "Url": "https://themes.gohugo.io/themes/hugo-academic/",
+  "Git": "https://github.com/wowchemy/wowchemy-hugo-themes"
+ },
+ {
+  "Name": "hugo-papermod",
+  "Url": "https://themes.gohugo.io/themes/hugo-papermod/",
+  "Git": "https://github.com/adityatelange/hugo-PaperMod"
+ },
+ {
+  "Name": "hugo-theme-stack",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-stack/",
+  "Git": "https://github.com/CaiJimmy/hugo-theme-stack"
+ },
+ {
+  "Name": "starter-academic",
+  "Url": "https://themes.gohugo.io/themes/starter-academic/",
+  "Git": "https://github.com/wowchemy/starter-hugo-academic"
+ },
+ {
+  "Name": "loveit",
+  "Url": "https://themes.gohugo.io/themes/loveit/",
+  "Git": "https://github.com/dillonzq/LoveIt"
+ },
+ {
+  "Name": "hugo-coder",
+  "Url": "https://themes.gohugo.io/themes/hugo-coder/",
+  "Git": "https://github.com/luizdepra/hugo-coder"
+ },
+ {
+  "Name": "hugo-book",
+  "Url": "https://themes.gohugo.io/themes/hugo-book/",
+  "Git": "https://github.com/alex-shpak/hugo-book"
+ },
+ {
+  "Name": "hugo-theme-even",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-even/",
+  "Git": "https://github.com/olOwOlo/hugo-theme-even"
+ },
+ {
+  "Name": "docsy",
+  "Url": "https://themes.gohugo.io/themes/docsy/",
+  "Git": "https://github.com/google/docsy"
+ },
+ {
+  "Name": "hugo-theme-learn",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-learn/",
+  "Git": "https://github.com/matcornic/hugo-theme-learn"
+ },
+ {
+  "Name": "hugo-theme-terminal",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-terminal/",
+  "Git": "https://github.com/panr/hugo-theme-terminal"
+ },
+ {
+  "Name": "hugo-theme-hello-friend-ng",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-hello-friend-ng/",
+  "Git": "https://github.com/rhazdon/hugo-theme-hello-friend-ng"
+ },
+ {
+  "Name": "doks",
+  "Url": "https://themes.gohugo.io/themes/doks/",
+  "Git": "https://github.com/h-enk/doks"
+ },
+ {
+  "Name": "hugo-paper",
+  "Url": "https://themes.gohugo.io/themes/hugo-paper/",
+  "Git": "https://github.com/nanxiaobei/hugo-paper"
+ },
+ {
+  "Name": "hermit",
+  "Url": "https://themes.gohugo.io/themes/hermit/",
+  "Git": "https://github.com/Track3/hermit"
+ },
+ {
+  "Name": "beautifulhugo",
+  "Url": "https://themes.gohugo.io/themes/beautifulhugo/",
+  "Git": "https://github.com/halogenica/beautifulhugo"
+ },
+ {
+  "Name": "hugo-theme-hello-friend",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-hello-friend/",
+  "Git": "https://github.com/panr/hugo-theme-hello-friend"
+ },
+ {
+  "Name": "hugo-tranquilpeak-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-tranquilpeak-theme/",
+  "Git": "https://github.com/kakawait/hugo-tranquilpeak-theme"
+ },
+ {
+  "Name": "hugo-theme-jane",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-jane/",
+  "Git": "https://github.com/xianmin/hugo-theme-jane"
+ },
+ {
+  "Name": "gohugo-theme-ananke",
+  "Url": "https://themes.gohugo.io/themes/gohugo-theme-ananke/",
+  "Git": "https://github.com/theNewDynamic/gohugo-theme-ananke"
+ },
+ {
+  "Name": "hugo-theme-meme",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-meme/",
+  "Git": "https://github.com/reuixiy/hugo-theme-meme"
+ },
+ {
+  "Name": "hugo-eureka",
+  "Url": "https://themes.gohugo.io/themes/hugo-eureka/",
+  "Git": "https://github.com/wangchucheng/hugo-eureka"
+ },
+ {
+  "Name": "mainroad",
+  "Url": "https://themes.gohugo.io/themes/mainroad/",
+  "Git": "https://github.com/Vimux/Mainroad"
+ },
+ {
+  "Name": "hugo-theme-zzo",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-zzo/",
+  "Git": "https://github.com/zzossig/hugo-theme-zzo"
+ },
+ {
+  "Name": "docuapi",
+  "Url": "https://themes.gohugo.io/themes/docuapi/",
+  "Git": "https://github.com/bep/docuapi"
+ },
+ {
+  "Name": "hugo-universal-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-universal-theme/",
+  "Git": "https://github.com/devcows/hugo-universal-theme"
+ },
+ {
+  "Name": "toha",
+  "Url": "https://themes.gohugo.io/themes/toha/",
+  "Git": "https://github.com/hugo-toha/toha"
+ },
+ {
+  "Name": "hugo-theme-cactus-plus",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-cactus-plus/",
+  "Git": "https://github.com/nodejh/hugo-theme-mini"
+ },
+ {
+  "Name": "hugo-theme-introduction",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-introduction/",
+  "Git": "https://github.com/victoriadrake/hugo-theme-introduction"
+ },
+ {
+  "Name": "reveal-hugo",
+  "Url": "https://themes.gohugo.io/themes/reveal-hugo/",
+  "Git": "https://github.com/dzello/reveal-hugo"
+ },
+ {
+  "Name": "minimo",
+  "Url": "https://themes.gohugo.io/themes/minimo/",
+  "Git": "https://github.com/MunifTanjim/minimo"
+ },
+ {
+  "Name": "anatole",
+  "Url": "https://themes.gohugo.io/themes/anatole/",
+  "Git": "https://github.com/lxndrblz/anatole"
+ },
+ {
+  "Name": "archie",
+  "Url": "https://themes.gohugo.io/themes/archie/",
+  "Git": "https://github.com/athul/archie"
+ },
+ {
+  "Name": "hyde",
+  "Url": "https://themes.gohugo.io/themes/hyde/",
+  "Git": "https://github.com/spf13/hyde"
+ },
+ {
+  "Name": "hugo-xmin",
+  "Url": "https://themes.gohugo.io/themes/hugo-xmin/",
+  "Git": "https://github.com/yihui/hugo-xmin"
+ },
+ {
+  "Name": "hugo-theme-cleanwhite",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-cleanwhite/",
+  "Git": "https://github.com/zhaohuabing/hugo-theme-cleanwhite"
+ },
+ {
+  "Name": "hugo-clarity",
+  "Url": "https://themes.gohugo.io/themes/hugo-clarity/",
+  "Git": "https://github.com/chipzoller/hugo-clarity"
+ },
+ {
+  "Name": "leaveit",
+  "Url": "https://themes.gohugo.io/themes/leaveit/",
+  "Git": "https://github.com/liuzc/LeaveIt"
+ },
+ {
+  "Name": "hugo-theme-sam",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-sam/",
+  "Git": "https://github.com/victoriadrake/hugo-theme-sam"
+ },
+ {
+  "Name": "hugo-creative-portfolio-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-creative-portfolio-theme/",
+  "Git": "https://github.com/kishaningithub/hugo-creative-portfolio-theme"
+ },
+ {
+  "Name": "hugo-fresh",
+  "Url": "https://themes.gohugo.io/themes/hugo-fresh/",
+  "Git": "https://github.com/StefMa/hugo-fresh"
+ },
+ {
+  "Name": "minimal",
+  "Url": "https://themes.gohugo.io/themes/minimal/",
+  "Git": "https://github.com/calintat/minimal"
+ },
+ {
+  "Name": "hugo-theme-cactus",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-cactus/",
+  "Git": "https://github.com/monkeyWzr/hugo-theme-cactus"
+ },
+ {
+  "Name": "hugo-theme-yinyang",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-yinyang/",
+  "Git": "https://github.com/joway/hugo-theme-yinyang"
+ },
+ {
+  "Name": "hugo-theme-diary",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-diary/",
+  "Git": "https://github.com/AmazingRise/hugo-theme-diary"
+ },
+ {
+  "Name": "hugo-geekdoc",
+  "Url": "https://themes.gohugo.io/themes/hugo-geekdoc/",
+  "Git": "https://github.com/thegeeklab/hugo-geekdoc"
+ },
+ {
+  "Name": "hugo-ink",
+  "Url": "https://themes.gohugo.io/themes/hugo-ink/",
+  "Git": "https://github.com/knadh/hugo-ink"
+ },
+ {
+  "Name": "github-style",
+  "Url": "https://themes.gohugo.io/themes/github-style/",
+  "Git": "https://github.com/MeiK2333/github-style"
+ },
+ {
+  "Name": "blackburn",
+  "Url": "https://themes.gohugo.io/themes/blackburn/",
+  "Git": "https://github.com/yoshiharuyamashita/blackburn"
+ },
+ {
+  "Name": "hugo-theme-novela",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-novela/",
+  "Git": "https://github.com/forestryio/hugo-theme-novela"
+ },
+ {
+  "Name": "hugo-theme-m10c",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-m10c/",
+  "Git": "https://github.com/vaga/hugo-theme-m10c"
+ },
+ {
+  "Name": "hugo-future-imperfect",
+  "Url": "https://themes.gohugo.io/themes/hugo-future-imperfect/",
+  "Git": "https://github.com/jpescador/hugo-future-imperfect"
+ },
+ {
+  "Name": "doit",
+  "Url": "https://themes.gohugo.io/themes/doit/",
+  "Git": "https://github.com/HEIGE-PCloud/DoIt"
+ },
+ {
+  "Name": "hugo-notepadium",
+  "Url": "https://themes.gohugo.io/themes/hugo-notepadium/",
+  "Git": "https://github.com/cntrump/hugo-notepadium"
+ },
+ {
+  "Name": "hugo-future-imperfect-slim",
+  "Url": "https://themes.gohugo.io/themes/hugo-future-imperfect-slim/",
+  "Git": "https://github.com/pacollins/hugo-future-imperfect-slim"
+ },
+ {
+  "Name": "portio-hugo",
+  "Url": "https://themes.gohugo.io/themes/portio-hugo/",
+  "Git": "https://github.com/StaticMania/portio-hugo"
+ },
+ {
+  "Name": "hugo-theme-codex",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-codex/",
+  "Git": "https://github.com/jakewies/hugo-theme-codex"
+ },
+ {
+  "Name": "hugo-serif-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-serif-theme/",
+  "Git": "https://github.com/zerostaticthemes/hugo-serif-theme"
+ },
+ {
+  "Name": "hugo-theme-anubis",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-anubis/",
+  "Git": "https://github.com/Mitrichius/hugo-theme-anubis"
+ },
+ {
+  "Name": "bilberry-hugo-theme",
+  "Url": "https://themes.gohugo.io/themes/bilberry-hugo-theme/",
+  "Git": "https://lednerb.github.io/bilberry-hugo-theme"
+ },
+ {
+  "Name": "hugo-bearblog",
+  "Url": "https://themes.gohugo.io/themes/hugo-bearblog/",
+  "Git": "https://janraasch.github.io/hugo-bearblog/"
+ },
+ {
+  "Name": "hugo-theme-fuji",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-fuji/",
+  "Git": "https://github.dsrkafuu.net/hugo-theme-fuji/"
+ },
+ {
+  "Name": "kiss",
+  "Url": "https://themes.gohugo.io/themes/kiss/",
+  "Git": "https://github.com/ribice/kiss"
+ },
+ {
+  "Name": "hugo-theme-bootstrap",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-bootstrap/",
+  "Git": "https://github.com/razonyang/hugo-theme-bootstrap"
+ },
+ {
+  "Name": "cupper-hugo-theme",
+  "Url": "https://themes.gohugo.io/themes/cupper-hugo-theme/",
+  "Git": "https://github.com/zwbetz-gh/cupper-hugo-theme"
+ },
+ {
+  "Name": "congo",
+  "Url": "https://themes.gohugo.io/themes/congo/",
+  "Git": "https://jpanther.github.io/congo/"
+ },
+ {
+  "Name": "hugo-theme-dream",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-dream/",
+  "Git": "https://github.com/g1eny0ung/hugo-theme-dream"
+ },
+ {
+  "Name": "hugo-theme-pure",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-pure/",
+  "Git": "https://github.com/xiaoheiAh/hugo-theme-pure"
+ },
+ {
+  "Name": "syna",
+  "Url": "https://themes.gohugo.io/themes/syna/",
+  "Git": "https://github.com/okkur/syna"
+ },
+ {
+  "Name": "tale-hugo",
+  "Url": "https://themes.gohugo.io/themes/tale-hugo/",
+  "Git": "https://github.com/EmielH/tale-hugo"
+ },
+ {
+  "Name": "hugo-orbit-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-orbit-theme/",
+  "Git": "https://github.com/aerohub/hugo-orbit-theme"
+ },
+ {
+  "Name": "ublogger",
+  "Url": "https://themes.gohugo.io/themes/ublogger/",
+  "Git": "https://github.com/uPagge/uBlogger"
+ },
+ {
+  "Name": "hyde-hyde",
+  "Url": "https://themes.gohugo.io/themes/hyde-hyde/",
+  "Git": "https://github.com/htr3n/hyde-hyde"
+ },
+ {
+  "Name": "hugo-theme-console",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-console/",
+  "Git": "https://github.com/mrmierzejewski/hugo-theme-console"
+ },
+ {
+  "Name": "hugo-goa",
+  "Url": "https://themes.gohugo.io/themes/hugo-goa/",
+  "Git": "https://github.com/kaapiandcode/hugo-goa"
+ },
+ {
+  "Name": "hugo-hero-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-hero-theme/",
+  "Git": "https://github.com/zerostaticthemes/hugo-hero-theme"
+ },
+ {
+  "Name": "raditian-free-hugo-theme",
+  "Url": "https://themes.gohugo.io/themes/raditian-free-hugo-theme/",
+  "Git": "https://github.com/radity/raditian-free-hugo-theme"
+ },
+ {
+  "Name": "hugo_theme_pickles",
+  "Url": "https://themes.gohugo.io/themes/hugo_theme_pickles/",
+  "Git": "https://github.com/mismith0227/hugo_theme_pickles"
+ },
+ {
+  "Name": "hugo-devresume-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-devresume-theme/",
+  "Git": "https://github.com/cowboysmall-tools/hugo-devresume-theme"
+ },
+ {
+  "Name": "hugo-whisper-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-whisper-theme/",
+  "Git": "https://github.com/zerostaticthemes/hugo-whisper-theme"
+ },
+ {
+  "Name": "hugo-theme-bootstrap4-blog",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-bootstrap4-blog/",
+  "Git": "https://github.com/alanorth/hugo-theme-bootstrap4-blog"
+ },
+ {
+  "Name": "hugo-resume",
+  "Url": "https://themes.gohugo.io/themes/hugo-resume/",
+  "Git": "https://github.com/eddiewebb/hugo-resume"
+ },
+ {
+  "Name": "keepit",
+  "Url": "https://themes.gohugo.io/themes/keepit/",
+  "Git": "https://github.com/Fastbyte01/KeepIt"
+ },
+ {
+  "Name": "etch",
+  "Url": "https://themes.gohugo.io/themes/etch/",
+  "Git": "https://lukasjoswiak.github.io/etch/"
+ },
+ {
+  "Name": "hugo-sustain",
+  "Url": "https://themes.gohugo.io/themes/hugo-sustain/",
+  "Git": "https://github.com/suyundukov/hugo-sustain"
+ },
+ {
+  "Name": "compose",
+  "Url": "https://themes.gohugo.io/themes/compose/",
+  "Git": "https://github.com/onweru/compose"
+ },
+ {
+  "Name": "hugo-theme-zen",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-zen/",
+  "Git": "https://github.com/frjo/hugo-theme-zen"
+ },
+ {
+  "Name": "hugo-researcher",
+  "Url": "https://themes.gohugo.io/themes/hugo-researcher/",
+  "Git": "https://github.com/ojroques/hugo-researcher"
+ },
+ {
+  "Name": "newsroom",
+  "Url": "https://themes.gohugo.io/themes/newsroom/",
+  "Git": "https://github.com/onweru/newsroom"
+ },
+ {
+  "Name": "hugo-theme-noteworthy",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-noteworthy/",
+  "Git": "https://github.com/kimcc/hugo-theme-noteworthy"
+ },
+ {
+  "Name": "hugo-black-and-light-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-black-and-light-theme/",
+  "Git": "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+ },
+ {
+  "Name": "hugo-theme-pixyll",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-pixyll/",
+  "Git": "https://github.com/azmelanar/hugo-theme-pixyll"
+ },
+ {
+  "Name": "hugo-elate-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-elate-theme/",
+  "Git": "https://github.com/saey55/hugo-elate-theme"
+ },
+ {
+  "Name": "harbor",
+  "Url": "https://themes.gohugo.io/themes/harbor/",
+  "Git": "https://github.com/matsuyoshi30/harbor"
+ },
+ {
+  "Name": "ghostwriter",
+  "Url": "https://themes.gohugo.io/themes/ghostwriter/",
+  "Git": "https://github.com/jbub/ghostwriter"
+ },
+ {
+  "Name": "blank",
+  "Url": "https://themes.gohugo.io/themes/blank/",
+  "Git": "https://github.com/Vimux/blank"
+ },
+ {
+  "Name": "hugo-profile",
+  "Url": "https://themes.gohugo.io/themes/hugo-profile/",
+  "Git": "https://github.com/gurusabarish/hugo-profile"
+ },
+ {
+  "Name": "hugo-theme-techdoc",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-techdoc/",
+  "Git": "https://github.com/thingsym/hugo-theme-techdoc"
+ },
+ {
+  "Name": "hugo-theme-shell",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-shell/",
+  "Git": "https://github.com/Yukuro/hugo-theme-shell"
+ },
+ {
+  "Name": "story",
+  "Url": "https://themes.gohugo.io/themes/story/",
+  "Git": "https://github.com/xaprb/story"
+ },
+ {
+  "Name": "lanyon-hugo",
+  "Url": "https://themes.gohugo.io/themes/lanyon-hugo/",
+  "Git": "https://github.com/tummychow/lanyon-hugo"
+ },
+ {
+  "Name": "hugo-theme-zdoc",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-zdoc/",
+  "Git": "https://github.com/zzossig/hugo-theme-zdoc"
+ },
+ {
+  "Name": "hugo-tania",
+  "Url": "https://themes.gohugo.io/themes/hugo-tania/",
+  "Git": "https://github.com/WingLim/hugo-tania"
+ },
+ {
+  "Name": "hugrid",
+  "Url": "https://themes.gohugo.io/themes/hugrid/",
+  "Git": "https://github.com/aerohub/hugrid"
+ },
+ {
+  "Name": "hugo-coder-portfolio",
+  "Url": "https://themes.gohugo.io/themes/hugo-coder-portfolio/",
+  "Git": "https://github.com/naro143/hugo-coder-portfolio"
+ },
+ {
+  "Name": "smol",
+  "Url": "https://themes.gohugo.io/themes/smol/",
+  "Git": "https://github.com/colorchestra/smol"
+ },
+ {
+  "Name": "aether",
+  "Url": "https://themes.gohugo.io/themes/aether/",
+  "Git": "https://github.com/josephhutch/aether"
+ },
+ {
+  "Name": "blist-hugo-theme",
+  "Url": "https://themes.gohugo.io/themes/blist-hugo-theme/",
+  "Git": "https://github.com/apvarun/blist-hugo-theme"
+ },
+ {
+  "Name": "hugo-theme-minos",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-minos/",
+  "Git": "https://github.com/carsonip/hugo-theme-minos"
+ },
+ {
+  "Name": "slate",
+  "Url": "https://themes.gohugo.io/themes/slate/",
+  "Git": "https://github.com/gesquive/slate"
+ },
+ {
+  "Name": "hugo-refresh",
+  "Url": "https://themes.gohugo.io/themes/hugo-refresh/",
+  "Git": "https://github.com/PippoRJ/hugo-refresh"
+ },
+ {
+  "Name": "hugo-theme-massively",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-massively/",
+  "Git": "https://github.com/curtiscde/hugo-theme-massively"
+ },
+ {
+  "Name": "avicenna",
+  "Url": "https://themes.gohugo.io/themes/avicenna/",
+  "Git": "https://github.com/hadisinaee/avicenna"
+ },
+ {
+  "Name": "hugo-scroll",
+  "Url": "https://themes.gohugo.io/themes/hugo-scroll/",
+  "Git": "https://janraasch.github.io/hugo-scroll/"
+ },
+ {
+  "Name": "hugo-theme-air",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-air/",
+  "Git": "https://github.com/syui/hugo-theme-air"
+ },
+ {
+  "Name": "hugo-lithium-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-lithium-theme/",
+  "Git": "https://github.com/jrutheiser/hugo-lithium-theme"
+ },
+ {
+  "Name": "hugo-vitae",
+  "Url": "https://themes.gohugo.io/themes/hugo-vitae/",
+  "Git": "https://github.com/dataCobra/hugo-vitae"
+ },
+ {
+  "Name": "hugo-primer",
+  "Url": "https://themes.gohugo.io/themes/hugo-primer/",
+  "Git": "https://github.com/qqpann/hugo-primer"
+ },
+ {
+  "Name": "forty",
+  "Url": "https://themes.gohugo.io/themes/forty/",
+  "Git": "https://github.com/MarcusVirg/forty"
+ },
+ {
+  "Name": "hugo-octopress",
+  "Url": "https://themes.gohugo.io/themes/hugo-octopress/",
+  "Git": "https://github.com/parsiya/Hugo-Octopress"
+ },
+ {
+  "Name": "hugo-theme-nix",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-nix/",
+  "Git": "https://github.com/LordMathis/hugo-theme-nix"
+ },
+ {
+  "Name": "risotto",
+  "Url": "https://themes.gohugo.io/themes/risotto/",
+  "Git": "https://github.com/joeroe/risotto"
+ },
+ {
+  "Name": "hugo-classic",
+  "Url": "https://themes.gohugo.io/themes/hugo-classic/",
+  "Git": "https://github.com/goodroot/hugo-classic"
+ },
+ {
+  "Name": "somrat",
+  "Url": "https://themes.gohugo.io/themes/somrat/",
+  "Git": "https://github.com/somratpro/somrat"
+ },
+ {
+  "Name": "hugo-swift-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-swift-theme/",
+  "Git": "https://github.com/onweru/hugo-swift-theme"
+ },
+ {
+  "Name": "hugo-theme-slim",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-slim/",
+  "Git": "https://github.com/zhe/hugo-theme-slim"
+ },
+ {
+  "Name": "mediumish-gohugo-theme",
+  "Url": "https://themes.gohugo.io/themes/mediumish-gohugo-theme/",
+  "Git": "https://github.com/lgaida/mediumish-gohugo-theme"
+ },
+ {
+  "Name": "pulp",
+  "Url": "https://themes.gohugo.io/themes/pulp/",
+  "Git": "https://github.com/koirand/pulp"
+ },
+ {
+  "Name": "hugo-story",
+  "Url": "https://themes.gohugo.io/themes/hugo-story/",
+  "Git": "https://github.com/caressofsteel/hugo-story"
+ },
+ {
+  "Name": "hugo-nederburg-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-nederburg-theme/",
+  "Git": "https://github.com/appernetic/hugo-nederburg-theme"
+ },
+ {
+  "Name": "hugo-theme-texify",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-texify/",
+  "Git": "https://github.com/queensferryme/hugo-theme-texify"
+ },
+ {
+  "Name": "minimal-bootstrap-hugo-theme",
+  "Url": "https://themes.gohugo.io/themes/minimal-bootstrap-hugo-theme/",
+  "Git": "https://github.com/zwbetz-gh/minimal-bootstrap-hugo-theme"
+ },
+ {
+  "Name": "amperage",
+  "Url": "https://themes.gohugo.io/themes/amperage/",
+  "Git": "https://github.com/asurcodes/amperage"
+ },
+ {
+  "Name": "hugo-changelog-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-changelog-theme/",
+  "Git": "https://github.com/jsnjack/hugo-changelog-theme"
+ },
+ {
+  "Name": "hugo-theme-next",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-next/",
+  "Git": "https://github.com/elkan1788/hugo-theme-next"
+ },
+ {
+  "Name": "binario",
+  "Url": "https://themes.gohugo.io/themes/binario/",
+  "Git": "https://github.com/Vimux/Binario"
+ },
+ {
+  "Name": "hugo-webslides",
+  "Url": "https://themes.gohugo.io/themes/hugo-webslides/",
+  "Git": "https://github.com/RCJacH/hugo-webslides"
+ },
+ {
+  "Name": "hugo-theme-relearn",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-relearn/",
+  "Git": "https://mcshelby.github.io/hugo-theme-relearn"
+ },
+ {
+  "Name": "hugo-theme-basic",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-basic/",
+  "Git": "https://github.com/siegerts/hugo-theme-basic"
+ },
+ {
+  "Name": "hugo-theme-chunky-poster",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-chunky-poster/",
+  "Git": "https://github.com/puresyntax71/hugo-theme-chunky-poster"
+ },
+ {
+  "Name": "feelit",
+  "Url": "https://themes.gohugo.io/themes/feelit/",
+  "Git": "https://github.com/khusika/FeelIt"
+ },
+ {
+  "Name": "hugo-theme-dimension",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-dimension/",
+  "Git": "https://github.com/your-identity/hugo-theme-dimension"
+ },
+ {
+  "Name": "almeida-cv",
+  "Url": "https://themes.gohugo.io/themes/almeida-cv/",
+  "Git": "https://github.com/ineesalmeida/almeida-cv"
+ },
+ {
+  "Name": "hugo-now-ui",
+  "Url": "https://themes.gohugo.io/themes/hugo-now-ui/",
+  "Git": "https://github.com/cboettig/hugo-now-ui"
+ },
+ {
+  "Name": "castanet",
+  "Url": "https://themes.gohugo.io/themes/castanet/",
+  "Git": "https://github.com/mattstratton/castanet"
+ },
+ {
+  "Name": "hugo-pacman-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-pacman-theme/",
+  "Git": "https://github.com/coderzh/hugo-pacman-theme"
+ },
+ {
+  "Name": "roxo-hugo",
+  "Url": "https://themes.gohugo.io/themes/roxo-hugo/",
+  "Git": "https://github.com/StaticMania/roxo-hugo"
+ },
+ {
+  "Name": "gokarna",
+  "Url": "https://themes.gohugo.io/themes/gokarna/",
+  "Git": "https://github.com/526avijitgupta/gokarna"
+ },
+ {
+  "Name": "hugo-theme-pico",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-pico/",
+  "Git": "https://github.com/negrel/hugo-theme-pico"
+ },
+ {
+  "Name": "personal-web",
+  "Url": "https://themes.gohugo.io/themes/personal-web/",
+  "Git": "https://github.com/bjacquemet/personal-web"
+ },
+ {
+  "Name": "manis-hugo-theme",
+  "Url": "https://themes.gohugo.io/themes/manis-hugo-theme/",
+  "Git": "https://github.com/yursan9/manis-hugo-theme"
+ },
+ {
+  "Name": "hallo-hugo",
+  "Url": "https://themes.gohugo.io/themes/hallo-hugo/",
+  "Git": "https://github.com/EmielH/hallo-hugo"
+ },
+ {
+  "Name": "hugo-bare-min-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-bare-min-theme/",
+  "Git": "https://github.com/kaushalmodi/hugo-bare-min-theme"
+ },
+ {
+  "Name": "devfest-theme-hugo",
+  "Url": "https://themes.gohugo.io/themes/devfest-theme-hugo/",
+  "Git": "https://github.com/GDGToulouse/devfest-theme-hugo"
+ },
+ {
+  "Name": "whiteplain",
+  "Url": "https://themes.gohugo.io/themes/whiteplain/",
+  "Git": "https://github.com/taikii/whiteplain"
+ },
+ {
+  "Name": "hugo-icon",
+  "Url": "https://themes.gohugo.io/themes/hugo-icon/",
+  "Git": "https://github.com/SteveLane/hugo-icon"
+ },
+ {
+  "Name": "blonde",
+  "Url": "https://themes.gohugo.io/themes/blonde/",
+  "Git": "https://github.com/opera7133/Blonde"
+ },
+ {
+  "Name": "hugo-identity-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-identity-theme/",
+  "Git": "https://github.com/aerohub/hugo-identity-theme"
+ },
+ {
+  "Name": "hugo-uilite",
+  "Url": "https://themes.gohugo.io/themes/hugo-uilite/",
+  "Git": "https://github.com/uicardioHQ/hugo-uilite"
+ },
+ {
+  "Name": "hugo-geekblog",
+  "Url": "https://themes.gohugo.io/themes/hugo-geekblog/",
+  "Git": "https://github.com/thegeeklab/hugo-geekblog"
+ },
+ {
+  "Name": "purehugo",
+  "Url": "https://themes.gohugo.io/themes/purehugo/",
+  "Git": "https://github.com/dplesca/purehugo"
+ },
+ {
+  "Name": "ace-documentation",
+  "Url": "https://themes.gohugo.io/themes/ace-documentation/",
+  "Git": "https://github.com/vantagedesign/ace-documentation"
+ },
+ {
+  "Name": "hugo-winston-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-winston-theme/",
+  "Git": "https://github.com/zerostaticthemes/hugo-winston-theme"
+ },
+ {
+  "Name": "hugo-xmag",
+  "Url": "https://themes.gohugo.io/themes/hugo-xmag/",
+  "Git": "https://github.com/yihui/hugo-xmag"
+ },
+ {
+  "Name": "gochowdown",
+  "Url": "https://themes.gohugo.io/themes/gochowdown/",
+  "Git": "https://github.com/seanlane/gochowdown"
+ },
+ {
+  "Name": "devise",
+  "Url": "https://themes.gohugo.io/themes/devise/",
+  "Git": "https://github.com/austingebauer/devise"
+ },
+ {
+  "Name": "hugo-tanka",
+  "Url": "https://themes.gohugo.io/themes/hugo-tanka/",
+  "Git": "https://github.com/nanxstats/hugo-tanka"
+ },
+ {
+  "Name": "lynx",
+  "Url": "https://themes.gohugo.io/themes/lynx/",
+  "Git": "https://jpanther.github.io/lynx/"
+ },
+ {
+  "Name": "autophugo",
+  "Url": "https://themes.gohugo.io/themes/autophugo/",
+  "Git": "https://github.com/kc0bfv/autophugo"
+ },
+ {
+  "Name": "papercss-hugo-theme",
+  "Url": "https://themes.gohugo.io/themes/papercss-hugo-theme/",
+  "Git": "https://github.com/zwbetz-gh/papercss-hugo-theme"
+ },
+ {
+  "Name": "hugo-split-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-split-theme/",
+  "Git": "https://github.com/escalate/hugo-split-theme"
+ },
+ {
+  "Name": "hugo-journal",
+  "Url": "https://themes.gohugo.io/themes/hugo-journal/",
+  "Git": "https://github.com/dashdashzako/hugo-journal"
+ },
+ {
+  "Name": "hugo-theme-iris",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-iris/",
+  "Git": "https://github.com/peaceiris/hugo-theme-iris"
+ },
+ {
+  "Name": "hugotex",
+  "Url": "https://themes.gohugo.io/themes/hugotex/",
+  "Git": "https://github.com/kaisugi/HugoTeX"
+ },
+ {
+  "Name": "bootstrap-bp-hugo-startpage",
+  "Url": "https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/",
+  "Git": "https://github.com/spech66/bootstrap-bp-hugo-startpage"
+ },
+ {
+  "Name": "hugo-theme-tokiwa",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-tokiwa/",
+  "Git": "https://github.com/heyeshuang/hugo-theme-tokiwa"
+ },
+ {
+  "Name": "hugo-cards",
+  "Url": "https://themes.gohugo.io/themes/hugo-cards/",
+  "Git": "https://github.com/bul-ikana/hugo-cards"
+ },
+ {
+  "Name": "hugo-flex",
+  "Url": "https://themes.gohugo.io/themes/hugo-flex/",
+  "Git": "https://github.com/de-souza/hugo-flex"
+ },
+ {
+  "Name": "axiom",
+  "Url": "https://themes.gohugo.io/themes/axiom/",
+  "Git": "https://github.com/marketempower/axiom"
+ },
+ {
+  "Name": "hugo-terrassa-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-terrassa-theme/",
+  "Git": "https://github.com/daniarlert/hugo-terrassa-theme"
+ },
+ {
+  "Name": "vanilla-bootstrap-hugo-theme",
+  "Url": "https://themes.gohugo.io/themes/vanilla-bootstrap-hugo-theme/",
+  "Git": "https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme"
+ },
+ {
+  "Name": "hugo-tufte",
+  "Url": "https://themes.gohugo.io/themes/hugo-tufte/",
+  "Git": "https://github.com/slashformotion/hugo-tufte"
+ },
+ {
+  "Name": "hugo-kiera",
+  "Url": "https://themes.gohugo.io/themes/hugo-kiera/",
+  "Git": "https://github.com/funkydan2/hugo-kiera"
+ },
+ {
+  "Name": "erblog",
+  "Url": "https://themes.gohugo.io/themes/erblog/",
+  "Git": "https://github.com/ertuil/erblog"
+ },
+ {
+  "Name": "nofancy",
+  "Url": "https://themes.gohugo.io/themes/nofancy/",
+  "Git": "https://github.com/gizak/nofancy"
+ },
+ {
+  "Name": "soho",
+  "Url": "https://themes.gohugo.io/themes/soho/",
+  "Git": "https://github.com/alexandrevicenzi/soho"
+ },
+ {
+  "Name": "bento",
+  "Url": "https://themes.gohugo.io/themes/bento/",
+  "Git": "https://github.com/leonardofaria/bento"
+ },
+ {
+  "Name": "hugonews",
+  "Url": "https://themes.gohugo.io/themes/hugonews/",
+  "Git": "https://github.com/spaghettiwews/hugonews"
+ },
+ {
+  "Name": "material-design",
+  "Url": "https://themes.gohugo.io/themes/material-design/",
+  "Git": "https://github.com/pdevty/material-design"
+ },
+ {
+  "Name": "osprey-delight",
+  "Url": "https://themes.gohugo.io/themes/osprey-delight/",
+  "Git": "https://hugo-mods.github.io/"
+ },
+ {
+  "Name": "neofeed-theme",
+  "Url": "https://themes.gohugo.io/themes/neofeed-theme/",
+  "Git": "https://github.com/victoriadrake/neofeed-theme"
+ },
+ {
+  "Name": "hugo-initio",
+  "Url": "https://themes.gohugo.io/themes/hugo-initio/",
+  "Git": "https://github.com/miguelsimoni/hugo-initio"
+ },
+ {
+  "Name": "hugo-bootstrap",
+  "Url": "https://themes.gohugo.io/themes/hugo-bootstrap/",
+  "Git": "https://github.com/mmrath/hugo-bootstrap"
+ },
+ {
+  "Name": "hugo-theme-minima",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-minima/",
+  "Git": "https://github.com/Mivinci/hugo-theme-minima"
+ },
+ {
+  "Name": "showfolio-hugo-theme",
+  "Url": "https://themes.gohugo.io/themes/showfolio-hugo-theme/",
+  "Git": "https://github.com/apvarun/showfolio-hugo-theme"
+ },
+ {
+  "Name": "hugo-casper3",
+  "Url": "https://themes.gohugo.io/themes/hugo-casper3/",
+  "Git": "https://github.com/jonathanjanssens/hugo-casper3"
+ },
+ {
+  "Name": "ramium",
+  "Url": "https://themes.gohugo.io/themes/ramium/",
+  "Git": "https://github.com/rafed/ramium"
+ },
+ {
+  "Name": "indigo",
+  "Url": "https://themes.gohugo.io/themes/indigo/",
+  "Git": "https://github.com/AngeloStavrow/indigo"
+ },
+ {
+  "Name": "hugo-theme-monochrome",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-monochrome/",
+  "Git": "https://kaiiiz.github.io/hugo-theme-monochrome/"
+ },
+ {
+  "Name": "kraiklyn",
+  "Url": "https://themes.gohugo.io/themes/kraiklyn/",
+  "Git": "https://github.com/jsnjack/kraiklyn"
+ },
+ {
+  "Name": "er",
+  "Url": "https://themes.gohugo.io/themes/er/",
+  "Git": "https://github.com/lingxz/er"
+ },
+ {
+  "Name": "hugo-theme-blueberry-detox",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-blueberry-detox/",
+  "Git": "https://github.com/allnightgrocery/hugo-theme-blueberry-detox"
+ },
+ {
+  "Name": "paperesque",
+  "Url": "https://themes.gohugo.io/themes/paperesque/",
+  "Git": "https://github.com/capnfabs/paperesque"
+ },
+ {
+  "Name": "solar-theme-hugo",
+  "Url": "https://themes.gohugo.io/themes/solar-theme-hugo/",
+  "Git": "https://github.com/bake/solar-theme-hugo"
+ },
+ {
+  "Name": "hugo-theme-bootie-docs",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-bootie-docs/",
+  "Git": "https://github.com/progrhyme/hugo-theme-bootie-docs"
+ },
+ {
+  "Name": "hugo-alageek-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-alageek-theme/",
+  "Git": "https://github.com/gkmngrgn/hugo-alageek-theme"
+ },
+ {
+  "Name": "alpha-church",
+  "Url": "https://themes.gohugo.io/themes/alpha-church/",
+  "Git": "https://github.com/funkydan2/alpha-church"
+ },
+ {
+  "Name": "hugo-lamp",
+  "Url": "https://themes.gohugo.io/themes/hugo-lamp/",
+  "Git": "https://github.com/huyb1991/hugo-lamp"
+ },
+ {
+  "Name": "simple-a",
+  "Url": "https://themes.gohugo.io/themes/simple-a/",
+  "Git": "https://github.com/alxschwarz/simple-a"
+ },
+ {
+  "Name": "hugo-blog-jeffprod",
+  "Url": "https://themes.gohugo.io/themes/hugo-blog-jeffprod/",
+  "Git": "https://github.com/Tazeg/hugo-blog-jeffprod"
+ },
+ {
+  "Name": "simplicity",
+  "Url": "https://themes.gohugo.io/themes/simplicity/",
+  "Git": "https://github.com/eshlox/simplicity"
+ },
+ {
+  "Name": "hugo-theme-winning",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-winning/",
+  "Git": "https://github.com/cssandstuff/hugo-theme-winning"
+ },
+ {
+  "Name": "engimo",
+  "Url": "https://themes.gohugo.io/themes/engimo/",
+  "Git": "https://github.com/achary/engimo"
+ },
+ {
+  "Name": "hugo-dusk",
+  "Url": "https://themes.gohugo.io/themes/hugo-dusk/",
+  "Git": "https://github.com/gyorb/hugo-dusk"
+ },
+ {
+  "Name": "liquorice",
+  "Url": "https://themes.gohugo.io/themes/liquorice/",
+  "Git": "https://github.com/eliasson/liquorice"
+ },
+ {
+  "Name": "hugo-theme-w3css-basic",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-w3css-basic/",
+  "Git": "https://github.com/it-gro/hugo-theme-w3css-basic"
+ },
+ {
+  "Name": "charaka-hugo-theme",
+  "Url": "https://themes.gohugo.io/themes/charaka-hugo-theme/",
+  "Git": "https://github.com/natarajmb/charaka-hugo-theme"
+ },
+ {
+  "Name": "simple-style",
+  "Url": "https://themes.gohugo.io/themes/simple-style/",
+  "Git": "https://github.com/yanlinlin82/simple-style"
+ },
+ {
+  "Name": "bare-hugo-theme",
+  "Url": "https://themes.gohugo.io/themes/bare-hugo-theme/",
+  "Git": "https://github.com/orf/bare-hugo-theme"
+ },
+ {
+  "Name": "hugo-shopping-product-catalogue-simple",
+  "Url": "https://themes.gohugo.io/themes/hugo-shopping-product-catalogue-simple/",
+  "Git": "https://github.com/kishaningithub/hugo-shopping-product-catalogue-simple"
+ },
+ {
+  "Name": "hugo-product-launch",
+  "Url": "https://themes.gohugo.io/themes/hugo-product-launch/",
+  "Git": "https://github.com/janraasch/hugo-product-launch"
+ },
+ {
+  "Name": "vncnt-hugo",
+  "Url": "https://themes.gohugo.io/themes/vncnt-hugo/",
+  "Git": "https://github.com/fncnt/vncnt-hugo"
+ },
+ {
+  "Name": "slick",
+  "Url": "https://themes.gohugo.io/themes/slick/",
+  "Git": "https://github.com/spookey/slick"
+ },
+ {
+  "Name": "showcase-hugo-theme",
+  "Url": "https://themes.gohugo.io/themes/showcase-hugo-theme/",
+  "Git": "https://github.com/apvarun/showcase-hugo-theme"
+ },
+ {
+  "Name": "hugo-theme-docport",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-docport/",
+  "Git": "https://github.com/vjeantet/hugo-theme-docport"
+ },
+ {
+  "Name": "hugo-theme-fluency",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-fluency/",
+  "Git": "https://github.com/wayjam/hugo-theme-fluency"
+ },
+ {
+  "Name": "hugo-lodi-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-lodi-theme/",
+  "Git": "https://github.com/xaviablaza/hugo-lodi-theme"
+ },
+ {
+  "Name": "hugo-developer-portfolio",
+  "Url": "https://themes.gohugo.io/themes/hugo-developer-portfolio/",
+  "Git": "https://github.com/samrobbins85/hugo-developer-portfolio"
+ },
+ {
+  "Name": "vienna",
+  "Url": "https://themes.gohugo.io/themes/vienna/",
+  "Git": "https://github.com/keichi/vienna"
+ },
+ {
+  "Name": "hugo-theme-revealjs",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-revealjs/",
+  "Git": "https://github.com/RealOrangeOne/hugo-theme-revealjs"
+ },
+ {
+  "Name": "tella",
+  "Url": "https://themes.gohugo.io/themes/tella/",
+  "Git": "https://github.com/opera7133/tella"
+ },
+ {
+  "Name": "paperback",
+  "Url": "https://themes.gohugo.io/themes/paperback/",
+  "Git": "https://github.com/dashdashzako/paperback"
+ },
+ {
+  "Name": "hugograyscale",
+  "Url": "https://themes.gohugo.io/themes/hugograyscale/",
+  "Git": "https://github.com/runningstream/hugograyscale"
+ },
+ {
+  "Name": "origin-hugo-theme",
+  "Url": "https://themes.gohugo.io/themes/origin-hugo-theme/",
+  "Git": "https://github.com/moody-person/origin-hugo-theme"
+ },
+ {
+  "Name": "hugo-theme-gruvbox",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-gruvbox/",
+  "Git": "https://github.com/schnerring/hugo-theme-gruvbox"
+ },
+ {
+  "Name": "hugo-theme-den",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-den/",
+  "Git": "https://github.com/shaform/hugo-theme-den"
+ },
+ {
+  "Name": "hugo-theme-notrack",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-notrack/",
+  "Git": "https://github.com/gevhaz/hugo-theme-notrack"
+ },
+ {
+  "Name": "hugo-theme-timeline",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-timeline/",
+  "Git": "https://github.com/s4n7h0/hugo-theme-timeline"
+ },
+ {
+  "Name": "hugo-tailwind-journal",
+  "Url": "https://themes.gohugo.io/themes/hugo-tailwind-journal/",
+  "Git": "https://github.com/ianrodrigues/hugo-tailwind-journal"
+ },
+ {
+  "Name": "onetwothree",
+  "Url": "https://themes.gohugo.io/themes/onetwothree/",
+  "Git": "https://github.com/schollz/onetwothree"
+ },
+ {
+  "Name": "hugo-hello-programmer-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-hello-programmer-theme/",
+  "Git": "https://github.com/lubang/hugo-hello-programmer-theme"
+ },
+ {
+  "Name": "hugo_eiio",
+  "Url": "https://themes.gohugo.io/themes/hugo_eiio/",
+  "Git": "https://github.com/leonhe/hugo_eiio"
+ },
+ {
+  "Name": "hugo-w3-simple",
+  "Url": "https://themes.gohugo.io/themes/hugo-w3-simple/",
+  "Git": "https://github.com/jesselau76/hugo-w3-simple"
+ },
+ {
+  "Name": "bootstrap-bp-hugo-theme",
+  "Url": "https://themes.gohugo.io/themes/bootstrap-bp-hugo-theme/",
+  "Git": "https://github.com/spech66/bootstrap-bp-hugo-theme"
+ },
+ {
+  "Name": "edidor",
+  "Url": "https://themes.gohugo.io/themes/edidor/",
+  "Git": "https://github.com/sfengyuan/edidor"
+ },
+ {
+  "Name": "hugo-sodium-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-sodium-theme/",
+  "Git": "https://github.com/uicardioHQ/hugo-sodium-theme"
+ },
+ {
+  "Name": "accessible-minimalism-hugo-theme",
+  "Url": "https://themes.gohugo.io/themes/accessible-minimalism-hugo-theme/",
+  "Git": "https://github.com/leonstafford/accessible-minimalism-hugo-theme"
+ },
+ {
+  "Name": "hugo-theme-vec",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-vec/",
+  "Git": "https://github.com/yiichou/hugo-theme-vec"
+ },
+ {
+  "Name": "bulma",
+  "Url": "https://themes.gohugo.io/themes/bulma/",
+  "Git": "https://github.com/jeblister/bulma"
+ },
+ {
+  "Name": "materialize-bp-hugo-theme",
+  "Url": "https://themes.gohugo.io/themes/materialize-bp-hugo-theme/",
+  "Git": "https://github.com/spech66/materialize-bp-hugo-theme"
+ },
+ {
+  "Name": "colordrop",
+  "Url": "https://themes.gohugo.io/themes/colordrop/",
+  "Git": "https://github.com/humrochagf/colordrop"
+ },
+ {
+  "Name": "hugo-theme-hamburg",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-hamburg/",
+  "Git": "https://github.com/hauke96/hugo-theme-hamburg"
+ },
+ {
+  "Name": "contrast-hugo",
+  "Url": "https://themes.gohugo.io/themes/contrast-hugo/",
+  "Git": "https://github.com/niklasbuschmann/contrast-hugo"
+ },
+ {
+  "Name": "hugo-travelify-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-travelify-theme/",
+  "Git": "https://github.com/balaramadurai/hugo-travelify-theme"
+ },
+ {
+  "Name": "niello",
+  "Url": "https://themes.gohugo.io/themes/niello/",
+  "Git": "https://github.com/guangmean/Niello"
+ },
+ {
+  "Name": "cayman-hugo-theme",
+  "Url": "https://themes.gohugo.io/themes/cayman-hugo-theme/",
+  "Git": "https://github.com/zwbetz-gh/cayman-hugo-theme"
+ },
+ {
+  "Name": "aafu",
+  "Url": "https://themes.gohugo.io/themes/aafu/",
+  "Git": "https://github.com/darshanbaral/aafu"
+ },
+ {
+  "Name": "internet-weblog",
+  "Url": "https://themes.gohugo.io/themes/internet-weblog/",
+  "Git": "https://github.com/jnjosh/internet-weblog"
+ },
+ {
+  "Name": "hugo-theme-sk1",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-sk1/",
+  "Git": "https://github.com/J-Siu/hugo-theme-sk1"
+ },
+ {
+  "Name": "hugo-theme-sk3",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-sk3/",
+  "Git": "https://github.com/J-Siu/hugo-theme-sk3"
+ },
+ {
+  "Name": "hugo-digital-garden-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-digital-garden-theme/",
+  "Git": "https://hugo-digital-garden-demo.netlify.app/"
+ },
+ {
+  "Name": "hugo-rocinante",
+  "Url": "https://themes.gohugo.io/themes/hugo-rocinante/",
+  "Git": "https://github.com/mavidser/hugo-rocinante"
+ },
+ {
+  "Name": "hugo-conference",
+  "Url": "https://themes.gohugo.io/themes/hugo-conference/",
+  "Git": "https://github.com/jweslley/hugo-conference"
+ },
+ {
+  "Name": "shadocs",
+  "Url": "https://themes.gohugo.io/themes/shadocs/",
+  "Git": "https://github.com/jgazeau/shadocs"
+ },
+ {
+  "Name": "hugo-theme-moments",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-moments/",
+  "Git": "https://github.com/FarseaSH/hugo-theme-moments"
+ },
+ {
+  "Name": "hugo-theme-prav",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-prav/",
+  "Git": "https://github.com/pravin/hugo-theme-prav"
+ },
+ {
+  "Name": "hugo-lime",
+  "Url": "https://themes.gohugo.io/themes/hugo-lime/",
+  "Git": "https://github.com/uicardioHQ/hugo-lime"
+ },
+ {
+  "Name": "spectral",
+  "Url": "https://themes.gohugo.io/themes/spectral/",
+  "Git": "https://sbruder.github.io/spectral/"
+ },
+ {
+  "Name": "grid-side",
+  "Url": "https://themes.gohugo.io/themes/grid-side/",
+  "Git": "https://github.com/chipsenkbeil/grid-side"
+ },
+ {
+  "Name": "henry-hugo",
+  "Url": "https://themes.gohugo.io/themes/henry-hugo/",
+  "Git": "https://github.com/kaushikgopal/henry-hugo"
+ },
+ {
+  "Name": "calligraphy",
+  "Url": "https://themes.gohugo.io/themes/calligraphy/",
+  "Git": "https://github.com/pacollins/calligraphy"
+ },
+ {
+  "Name": "hugo-tikva",
+  "Url": "https://themes.gohugo.io/themes/hugo-tikva/",
+  "Git": "https://github.com/geschke/hugo-tikva"
+ },
+ {
+  "Name": "the-roots-home",
+  "Url": "https://themes.gohugo.io/themes/the-roots-home/",
+  "Git": "https://github.com/rmsubekti/the-roots-home"
+ },
+ {
+  "Name": "inkblotty",
+  "Url": "https://themes.gohugo.io/themes/inkblotty/",
+  "Git": "https://github.com/tosi29/inkblotty"
+ },
+ {
+  "Name": "hugo-sugoi",
+  "Url": "https://themes.gohugo.io/themes/hugo-sugoi/",
+  "Git": "https://github.com/aanupam23/hugo-sugoi"
+ },
+ {
+  "Name": "hugo-theme-icarus-lite",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-icarus-lite/",
+  "Git": "https://github.com/airinghost/hugo-theme-icarus-lite"
+ },
+ {
+  "Name": "ink-free",
+  "Url": "https://themes.gohugo.io/themes/ink-free/",
+  "Git": "https://github.com/chollinger93/ink-free"
+ },
+ {
+  "Name": "yourfolio",
+  "Url": "https://themes.gohugo.io/themes/yourfolio/",
+  "Git": "https://github.com/serg/yourfolio"
+ },
+ {
+  "Name": "strange-case",
+  "Url": "https://themes.gohugo.io/themes/strange-case/",
+  "Git": "https://github.com/ExchangeRate-API/strange-case"
+ },
+ {
+  "Name": "hugo-piercer-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-piercer-theme/",
+  "Git": "https://github.com/daniarlert/hugo-piercer-theme"
+ },
+ {
+  "Name": "flex-bp-hugo-cv",
+  "Url": "https://themes.gohugo.io/themes/flex-bp-hugo-cv/",
+  "Git": "https://github.com/spech66/flex-bp-hugo-cv"
+ },
+ {
+  "Name": "ronu-hugo-theme",
+  "Url": "https://themes.gohugo.io/themes/ronu-hugo-theme/",
+  "Git": "https://github.com/softwareyoga/ronu-hugo-theme"
+ },
+ {
+  "Name": "hugo-theme-lean-launch-page",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-lean-launch-page/",
+  "Git": "https://github.com/felicianotech/hugo-theme-lean-launch-page"
+ },
+ {
+  "Name": "crab",
+  "Url": "https://themes.gohugo.io/themes/crab/",
+  "Git": "https://github.com/thomasheller/crab"
+ },
+ {
+  "Name": "hugo-theme-sk2",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-sk2/",
+  "Git": "https://github.com/J-Siu/hugo-theme-sk2"
+ },
+ {
+  "Name": "lekh",
+  "Url": "https://themes.gohugo.io/themes/lekh/",
+  "Git": "https://github.com/ba11b0y/lekh"
+ },
+ {
+  "Name": "hugo-highlights-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-highlights-theme/",
+  "Git": "https://github.com/schmanat/hugo-highlights-theme"
+ },
+ {
+  "Name": "vnovel",
+  "Url": "https://themes.gohugo.io/themes/vnovel/",
+  "Git": "https://github.com/opera7133/vnovel"
+ },
+ {
+  "Name": "simpleness",
+  "Url": "https://themes.gohugo.io/themes/simpleness/",
+  "Git": "https://github.com/RainerChiang/simpleness"
+ },
+ {
+  "Name": "npq-hugo",
+  "Url": "https://themes.gohugo.io/themes/npq-hugo/",
+  "Git": "https://github.com/saadsolimanxyz/npqhugo"
+ },
+ {
+  "Name": "allegiant",
+  "Url": "https://themes.gohugo.io/themes/allegiant/",
+  "Git": "https://github.com/brycematheson/allegiant"
+ },
+ {
+  "Name": "hugo-theme-ava",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-ava/",
+  "Git": "https://github.com/jmau111/hugo-theme-ava"
+ },
+ {
+  "Name": "hugo-theme-dopetrope",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-dopetrope/",
+  "Git": "https://github.com/curtiscde/hugo-theme-dopetrope"
+ },
+ {
+  "Name": "hugo-theme-tony",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-tony/",
+  "Git": "https://github.com/ThemeTony/hugo-theme-tony"
+ },
+ {
+  "Name": "simpleintro",
+  "Url": "https://themes.gohugo.io/themes/simpleintro/",
+  "Git": "https://github.com/gangjun06/SimpleIntro"
+ },
+ {
+  "Name": "hugo-theme-freshstart",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-freshstart/",
+  "Git": "https://github.com/rz3n/hugo-theme-freshstart"
+ },
+ {
+  "Name": "hestia-pure",
+  "Url": "https://themes.gohugo.io/themes/hestia-pure/",
+  "Git": "https://github.com/diwao/hestia-pure"
+ },
+ {
+  "Name": "hugo-faq-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-faq-theme/",
+  "Git": "https://github.com/aerohub/hugo-faq-theme"
+ },
+ {
+  "Name": "silhouette-hugo",
+  "Url": "https://themes.gohugo.io/themes/silhouette-hugo/",
+  "Git": "https://github.com/mattbutton/silhouette-hugo"
+ },
+ {
+  "Name": "twentyfourteen",
+  "Url": "https://themes.gohugo.io/themes/twentyfourteen/",
+  "Git": "https://github.com/jaden/twentyfourteen"
+ },
+ {
+  "Name": "hugo-stellar-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-stellar-theme/",
+  "Git": "https://github.com/antonpolishko/hugo-stellar-theme"
+ },
+ {
+  "Name": "hugo-material-blog",
+  "Url": "https://themes.gohugo.io/themes/hugo-material-blog/",
+  "Git": "https://github.com/Xzya/hugo-material-blog"
+ },
+ {
+  "Name": "polymer",
+  "Url": "https://themes.gohugo.io/themes/polymer/",
+  "Git": "https://github.com/pdevty/polymer"
+ },
+ {
+  "Name": "re-cover",
+  "Url": "https://themes.gohugo.io/themes/re-cover/",
+  "Git": "https://github.com/sieis/re-cover"
+ },
+ {
+  "Name": "simple-resume",
+  "Url": "https://themes.gohugo.io/themes/simple-resume/",
+  "Git": "https://github.com/tylerjlawson/simple-resume"
+ },
+ {
+  "Name": "hugo-theme-color-your-world",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-color-your-world/",
+  "Git": "https://gitlab.com/rmaguiar/hugo-theme-color-your-world"
+ },
+ {
+  "Name": "hugo-fill-and-stroke",
+  "Url": "https://themes.gohugo.io/themes/hugo-fill-and-stroke/",
+  "Git": "https://knokmki612.github.io/hugo-fill-and-stroke/"
+ },
+ {
+  "Name": "potato-dark",
+  "Url": "https://themes.gohugo.io/themes/potato-dark/",
+  "Git": "https://github.com/surajmandalcell/potato-dark"
+ },
+ {
+  "Name": "capsule",
+  "Url": "https://themes.gohugo.io/themes/capsule/",
+  "Git": "https://github.com/sudorook/capsule"
+ },
+ {
+  "Name": "papaya",
+  "Url": "https://themes.gohugo.io/themes/papaya/",
+  "Git": "https://github.com/plopcas/papaya"
+ },
+ {
+  "Name": "min_night",
+  "Url": "https://themes.gohugo.io/themes/min_night/",
+  "Git": "https://github.com/nathancday/min_night"
+ },
+ {
+  "Name": "onepress",
+  "Url": "https://themes.gohugo.io/themes/onepress/",
+  "Git": "https://github.com/ijsucceed/onepress"
+ },
+ {
+  "Name": "sicily-hugo-theme",
+  "Url": "https://themes.gohugo.io/themes/sicily-hugo-theme/",
+  "Git": "https://github.com/cristianmarint/sicily-hugo-theme"
+ },
+ {
+  "Name": "stip-hugo",
+  "Url": "https://themes.gohugo.io/themes/stip-hugo/",
+  "Git": "https://github.com/EmielH/stip-hugo"
+ },
+ {
+  "Name": "hugo-theme-yuki",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-yuki/",
+  "Git": "https://github.com/iCyris/hugo-theme-yuki"
+ },
+ {
+  "Name": "hugo-startpage-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-startpage-theme/",
+  "Git": "https://github.com/whi-tw/hugo-startpage-theme"
+ },
+ {
+  "Name": "arabica",
+  "Url": "https://themes.gohugo.io/themes/arabica/",
+  "Git": "https://github.com/nirocfz/arabica"
+ },
+ {
+  "Name": "hugo-starter",
+  "Url": "https://themes.gohugo.io/themes/hugo-starter/",
+  "Git": "https://github.com/jimfrenette/hugo-starter"
+ },
+ {
+  "Name": "blogpaper",
+  "Url": "https://themes.gohugo.io/themes/blogpaper/",
+  "Git": "https://github.com/NormandErwan/Blogpaper"
+ },
+ {
+  "Name": "hpstr-hugo-theme",
+  "Url": "https://themes.gohugo.io/themes/hpstr-hugo-theme/",
+  "Git": "https://github.com/dldx/hpstr-hugo-theme"
+ },
+ {
+  "Name": "minimage",
+  "Url": "https://themes.gohugo.io/themes/minimage/",
+  "Git": "https://github.com/dsk52/minimage"
+ },
+ {
+  "Name": "simpleit-hugo-theme",
+  "Url": "https://themes.gohugo.io/themes/simpleit-hugo-theme/",
+  "Git": "https://github.com/marcanuy/simpleit-hugo-theme"
+ },
+ {
+  "Name": "sada",
+  "Url": "https://themes.gohugo.io/themes/sada/",
+  "Git": "https://github.com/darshanbaral/sada"
+ },
+ {
+  "Name": "hugo-theme-mixedpaper",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-mixedpaper/",
+  "Git": "https://github.com/wayjam/hugo-theme-mixedpaper"
+ },
+ {
+  "Name": "hugo-now",
+  "Url": "https://themes.gohugo.io/themes/hugo-now/",
+  "Git": "https://github.com/mikeblum/hugo-now"
+ },
+ {
+  "Name": "hugo-spectre-pixel-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-spectre-pixel-theme/",
+  "Git": "https://github.com/st-wong/hugo-spectre-pixel-theme"
+ },
+ {
+  "Name": "hugo-frances-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-frances-theme/",
+  "Git": "https://github.com/mcrwfrd/hugo-frances-theme"
+ },
+ {
+  "Name": "anybodyhome",
+  "Url": "https://themes.gohugo.io/themes/anybodyhome/",
+  "Git": "https://github.com/lasseborly/anybodyhome"
+ },
+ {
+  "Name": "hugo-business-frontpage-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-business-frontpage-theme/",
+  "Git": "https://github.com/cowboysmall-tools/hugo-business-frontpage-theme"
+ },
+ {
+  "Name": "elephants",
+  "Url": "https://themes.gohugo.io/themes/elephants/",
+  "Git": "https://github.com/meibenny/elephants"
+ },
+ {
+  "Name": "hugo_theme_adam_eve",
+  "Url": "https://themes.gohugo.io/themes/hugo_theme_adam_eve/",
+  "Git": "https://github.com/blankoworld/hugo_theme_adam_eve"
+ },
+ {
+  "Name": "beyondnothing",
+  "Url": "https://themes.gohugo.io/themes/beyondnothing/",
+  "Git": "https://github.com/salcan/BeyondNothing"
+ },
+ {
+  "Name": "hugo-theme-doors",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-doors/",
+  "Git": "https://github.com/zzzmisa/hugo-theme-doors"
+ },
+ {
+  "Name": "hugo-dusky-neon-potato",
+  "Url": "https://themes.gohugo.io/themes/hugo-dusky-neon-potato/",
+  "Git": "https://github.com/VVelox/hugo-dusky-neon-potato"
+ },
+ {
+  "Name": "kitab",
+  "Url": "https://themes.gohugo.io/themes/kitab/",
+  "Git": "https://github.com/darshanbaral/kitab"
+ },
+ {
+  "Name": "hugo-apps-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-apps-theme/",
+  "Git": "https://github.com/gonnux/hugo-apps-theme"
+ },
+ {
+  "Name": "hugo-theme-wave",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-wave/",
+  "Git": "https://github.com/syui/hugo-theme-wave"
+ },
+ {
+  "Name": "photophobia",
+  "Url": "https://themes.gohugo.io/themes/photophobia/",
+  "Git": "https://github.com/setsevireon/photophobia"
+ },
+ {
+  "Name": "foundation-theme",
+  "Url": "https://themes.gohugo.io/themes/foundation-theme/",
+  "Git": "https://github.com/hdcdstr8fwd/foundation-theme"
+ },
+ {
+  "Name": "simplog",
+  "Url": "https://themes.gohugo.io/themes/simplog/",
+  "Git": "https://michimani.github.io/simplog/"
+ },
+ {
+  "Name": "hugo-dpsg",
+  "Url": "https://themes.gohugo.io/themes/hugo-dpsg/",
+  "Git": "https://github.com/pfadfinder-konstanz/hugo-dpsg"
+ },
+ {
+  "Name": "hugotheme-vibrantshadows",
+  "Url": "https://themes.gohugo.io/themes/hugotheme-vibrantshadows/",
+  "Git": "https://github.com/Softorage/HugoTheme-VibrantShadows"
+ },
+ {
+  "Name": "hugo-bingo",
+  "Url": "https://themes.gohugo.io/themes/hugo-bingo/",
+  "Git": "https://github.com/gundamew/hugo-bingo"
+ },
+ {
+  "Name": "hugo-myportfolio-theme",
+  "Url": "https://themes.gohugo.io/themes/hugo-myportfolio-theme/",
+  "Git": "https://github.com/2-REC/hugo-myportfolio-theme"
+ },
+ {
+  "Name": "hugo-theme-simple-blog",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-simple-blog/",
+  "Git": "https://github.com/10mohi6/hugo-theme-simple-blog"
+ },
+ {
+  "Name": "hugo-html5up-alpha",
+  "Url": "https://themes.gohugo.io/themes/hugo-html5up-alpha/",
+  "Git": "https://github.com/dewittn/hugo-html5up-alpha"
+ },
+ {
+  "Name": "onedly-theme",
+  "Url": "https://themes.gohugo.io/themes/onedly-theme/",
+  "Git": "https://github.com/cdeck3r/OneDly-Theme"
+ },
+ {
+  "Name": "darksimplicity",
+  "Url": "https://themes.gohugo.io/themes/darksimplicity/",
+  "Git": "https://github.com/kritoke/darksimplicity"
+ },
+ {
+  "Name": "mero",
+  "Url": "https://themes.gohugo.io/themes/mero/",
+  "Git": "https://github.com/darshanbaral/mero"
+ },
+ {
+  "Name": "bodhi",
+  "Url": "https://themes.gohugo.io/themes/bodhi/",
+  "Git": "https://github.com/rhnvrm/bodhi"
+ },
+ {
+  "Name": "hugo-fabric",
+  "Url": "https://themes.gohugo.io/themes/hugo-fabric/",
+  "Git": "https://github.com/wd/hugo-fabric"
+ },
+ {
+  "Name": "twentynineteen-hugo",
+  "Url": "https://themes.gohugo.io/themes/twentynineteen-hugo/",
+  "Git": "https://github.com/jeremybise/twentynineteen-hugo"
+ },
+ {
+  "Name": "kiss-em",
+  "Url": "https://themes.gohugo.io/themes/kiss-em/",
+  "Git": "https://github.com/pavel-pi/kiss-em"
+ },
+ {
+  "Name": "vno-hugo",
+  "Url": "https://themes.gohugo.io/themes/vno-hugo/",
+  "Git": "https://github.com/xslingcn/Vno-Hugo"
+ },
+ {
+  "Name": "hugo-theme-okayish-blog",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-okayish-blog/",
+  "Git": "https://github.com/kongdivin/hugo-theme-okayish-blog"
+ },
+ {
+  "Name": "shapez-theme",
+  "Url": "https://themes.gohugo.io/themes/shapez-theme/",
+  "Git": "https://github.com/djuelg/Shapez-Theme"
+ },
+ {
+  "Name": "basicwebtheme",
+  "Url": "https://themes.gohugo.io/themes/basicwebtheme/",
+  "Git": "https://github.com/mdashx/basicwebtheme"
+ },
+ {
+  "Name": "hugo-theme-easybook",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-easybook/",
+  "Git": "https://github.com/Y4er/hugo-theme-easybook"
+ },
+ {
+  "Name": "hugo-frais",
+  "Url": "https://themes.gohugo.io/themes/hugo-frais/",
+  "Git": "https://github.com/the2ne/hugo-frais"
+ },
+ {
+  "Name": "hugo-grapes",
+  "Url": "https://themes.gohugo.io/themes/hugo-grapes/",
+  "Git": "https://github.com/shankar/hugo-grapes"
+ },
+ {
+  "Name": "hugo-arcana",
+  "Url": "https://themes.gohugo.io/themes/hugo-arcana/",
+  "Git": "https://github.com/half-duplex/hugo-arcana"
+ },
+ {
+  "Name": "hugo-theme-hulga",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-hulga/",
+  "Git": "https://github.com/wlh320/hugo-theme-hulga"
+ },
+ {
+  "Name": "less",
+  "Url": "https://themes.gohugo.io/themes/less/",
+  "Git": "https://github.com/4ever9/less"
+ },
+ {
+  "Name": "light-hugo",
+  "Url": "https://themes.gohugo.io/themes/light-hugo/",
+  "Git": "https://github.com/tblyler/light-hugo"
+ },
+ {
+  "Name": "docter",
+  "Url": "https://themes.gohugo.io/themes/docter/",
+  "Git": "https://github.com/edavidaja/docter"
+ },
+ {
+  "Name": "health-science-journal",
+  "Url": "https://themes.gohugo.io/themes/health-science-journal/",
+  "Git": "https://github.com/epistemehealth/health-science-journal"
+ },
+ {
+  "Name": "uwe-uwe-hugo",
+  "Url": "https://themes.gohugo.io/themes/uwe-uwe-hugo/",
+  "Git": "https://mbrt-yeah.github.io/uwe-uwe-hugo-example/"
+ },
+ {
+  "Name": "hugo-clinic-notes",
+  "Url": "https://themes.gohugo.io/themes/hugo-clinic-notes/",
+  "Git": "https://github.com/jmablog/hugo-clinic-notes"
+ },
+ {
+  "Name": "hugo-theme-techlog-simple",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-techlog-simple/",
+  "Git": "https://github.com/mazgi/hugo-theme-techlog-simple"
+ },
+ {
+  "Name": "linkshrubbery",
+  "Url": "https://themes.gohugo.io/themes/linkshrubbery/",
+  "Git": "https://github.com/tohn/linkshrubbery"
+ },
+ {
+  "Name": "port-hugo",
+  "Url": "https://themes.gohugo.io/themes/port-hugo/",
+  "Git": "https://github.com/tylerjlawson/port-hugo"
+ },
+ {
+  "Name": "ghazal",
+  "Url": "https://themes.gohugo.io/themes/ghazal/",
+  "Git": "https://github.com/darshanbaral/ghazal"
+ },
+ {
+  "Name": "hugo-assembly",
+  "Url": "https://themes.gohugo.io/themes/hugo-assembly/",
+  "Git": "https://github.com/salsysd/hugo-assembly"
+ },
+ {
+  "Name": "ticky_tacky_dark",
+  "Url": "https://themes.gohugo.io/themes/ticky_tacky_dark/",
+  "Git": "https://github.com/kc0bfv/ticky_tacky_dark"
+ },
+ {
+  "Name": "flexible-seo-hugo",
+  "Url": "https://themes.gohugo.io/themes/flexible-seo-hugo/",
+  "Git": "https://github.com/pjbakker/flexible-seo-hugo"
+ },
+ {
+  "Name": "classless-hugo",
+  "Url": "https://themes.gohugo.io/themes/classless-hugo/",
+  "Git": "https://github.com/fiatjaf/classless-hugo"
+ },
+ {
+  "Name": "hero",
+  "Url": "https://themes.gohugo.io/themes/hero/",
+  "Git": "https://yue1124.github.io/hero/"
+ },
+ {
+  "Name": "hugo-h5bp-simple",
+  "Url": "https://themes.gohugo.io/themes/hugo-h5bp-simple/",
+  "Git": "https://github.com/garvincasimir/hugo-h5bp-simple"
+ },
+ {
+  "Name": "hugo-theme-robotico",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-robotico/",
+  "Git": "https://github.com/wileymc/hugo-theme-robotico"
+ },
+ {
+  "Name": "hugo-theme-sky",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-sky/",
+  "Git": "https://github.com/cfrome77/hugo-theme-sky"
+ },
+ {
+  "Name": "tinyworks",
+  "Url": "https://themes.gohugo.io/themes/tinyworks/",
+  "Git": "https://github.com/Nigh/tinyworks"
+ },
+ {
+  "Name": "sourgough-starter",
+  "Url": "https://themes.gohugo.io/themes/sourgough-starter/",
+  "Git": "https://github.com/Jack-alope/sourgough-starter"
+ },
+ {
+  "Name": "rsimple",
+  "Url": "https://themes.gohugo.io/themes/rsimple/",
+  "Git": "https://github.com/rijoth/rsimple"
+ },
+ {
+  "Name": "split-landing",
+  "Url": "https://themes.gohugo.io/themes/split-landing/",
+  "Git": "https://katamarijr.github.io/split-landing/"
+ },
+ {
+  "Name": "khata",
+  "Url": "https://themes.gohugo.io/themes/khata/",
+  "Git": "https://github.com/darshanbaral/khata"
+ },
+ {
+  "Name": "simple-snipcart-shop",
+  "Url": "https://themes.gohugo.io/themes/simple-snipcart-shop/",
+  "Git": "https://github.com/tylerjlawson/simple-snipcart-shop"
+ },
+ {
+  "Name": "redgood",
+  "Url": "https://themes.gohugo.io/themes/redgood/",
+  "Git": "https://github.com/urjaacharya/redgood"
+ },
+ {
+  "Name": "venture",
+  "Url": "https://themes.gohugo.io/themes/venture/",
+  "Git": "https://github.com/Wtoll/venture"
+ },
+ {
+  "Name": "someparts-hugo",
+  "Url": "https://themes.gohugo.io/themes/someparts-hugo/",
+  "Git": "https://github.com/tastaturtier/someparts-hugo"
+ },
+ {
+  "Name": "hugo-minimalist-spa",
+  "Url": "https://themes.gohugo.io/themes/hugo-minimalist-spa/",
+  "Git": "https://github.com/sergioabreu-g/hugo-minimalist-spa"
+ },
+ {
+  "Name": "resume-a4",
+  "Url": "https://themes.gohugo.io/themes/resume-a4/",
+  "Git": "https://gitlab.com/mertbakir/resume-a4"
+ },
+ {
+  "Name": "hugo-theme-cole",
+  "Url": "https://themes.gohugo.io/themes/hugo-theme-cole/",
+  "Git": "https://github.com/sfengyuan/hugo-theme-cole"
+ },
+ {
+  "Name": "hugo-split-gallery",
+  "Url": "https://themes.gohugo.io/themes/hugo-split-gallery/",
+  "Git": "https://tmuguet.gitlab.io/hugo-split-gallery/"
+ },
+ {
+  "Name": "gruvhugo",
+  "Url": "https://themes.gohugo.io/themes/gruvhugo/",
+  "Git": "https://avron.gitlab.io/gruvhugo/"
+ },
+ {
+  "Name": "smigle-hugo-theme",
+  "Url": "https://themes.gohugo.io/themes/smigle-hugo-theme/",
+  "Git": "https://gitlab.com/ian-s-mcb/smigle-hugo-theme"
+ },
+ {
+  "Name": "hugo.386",
+  "Url": "https://themes.gohugo.io/themes/hugo.386/",
+  "Git": "https://gitlab.com/maxlefou/hugo.386"
+ },
+ {
+  "Name": "prastoot",
+  "Url": "https://themes.gohugo.io/themes/prastoot/",
+  "Git": "https://github.com/darshanbaral/prastoot"
+ },
+ {
+  "Name": "hugo-icarus",
+  "Url": "https://themes.gohugo.io/themes/hugo-icarus/",
+  "Git": "https://gitlab.com/toryanderson/hugo-icarus"
+ },
+ {
+  "Name": "resto-hugo",
+  "Url": "https://themes.gohugo.io/themes/resto-hugo/",
+  "Git": "https://gitlab.com/kskarthik/resto-hugo"
+ },
+ {
+  "Name": "monopriv",
+  "Url": "https://themes.gohugo.io/themes/monopriv/",
+  "Git": "https://gitlab.com/kskarthik/monopriv"
+ },
+ {
+  "Name": "hugo-owaraiclub",
+  "Url": "https://themes.gohugo.io/themes/hugo-owaraiclub/",
+  "Git": "https://github.com/tcgriffith/hugo-owaraiclub"
+ },
+ {
+  "Name": "huginn",
+  "Url": "https://themes.gohugo.io/themes/huginn/",
+  "Git": "https://gitlab.com/VincentTam/huginn"
+ }
+]
